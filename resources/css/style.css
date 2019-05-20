@@ -283,8 +283,6 @@ header {
 /* Footer */
 footer {
   display: flex;
-  flex-direction: column;
-  height: 200px;
   width: 100%;
   font-family: Verdana;
   color: white;
