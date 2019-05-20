@@ -282,7 +282,7 @@ header {
 
 /* Footer */
 footer {
-  display: flex;
+  display: block;
   width: 100%;
   font-family: Verdana;
   color: white;
